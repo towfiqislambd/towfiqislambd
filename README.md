@@ -1,6 +1,6 @@
 ##  Hi, I'm Towfiq Islam 👋
 ### Web Developer
-![Web Developer](https://i.ibb.co.com/b7ny5Bv/dfd.webp)
+![Web Developer](https://i.ibb.co.com/C1FzfGJ/DALL-E-2024-11-28-19-16-55-A-clean-and-professional-Git-Hub-profile-banner-for-Towfiq-Islam-a-junior.webp)
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
