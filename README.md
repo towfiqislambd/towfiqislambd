@@ -1,28 +1,183 @@
-##  Hi, I'm Towfiq Islam 👋
-### Web Developer
-![Web Developer](https://i.ibb.co.com/2tPKv9x/bb.png)
+<!-- banner image starts here  -->
+<img src="./images/banner.png" width="100%">
+<!-- banner image ends here  -->
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+<h1> 👋 Hello, I'm Anisul Islam </h1>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+A full time content creator on & web developer  
+🏠 &nbsp; Living: Tampere, Finland
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Web Development 
+<!-- Contact me section starts here  -->
+
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+<br />
+<br />
+
+<!-- Contact me section ends here  -->
+
+<!-- about-me section starts here  -->
+
+### 👨‍🏫 &nbsp; About Me
+
+<p align="justify">
+I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+</p>
+
+<br />
+<!-- about-me section ends here  -->
+
+<!-- web related skills section starts here  -->
+
+### 👨🏽‍💻 &nbsp; My Skills & Videos:
+
+#### Key Skills & Videos on Web development:
+
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
+[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+
+<br />
+<br />
+<br />
+
+<!-- web related skills section ends here  -->
+<!-- other skills and my videos for computer science section starts here  -->
+
+#### Other Skills & Videos:
+
+[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
+[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
+[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
+[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />][androidplaylist]
+[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
+
+<br/>
+<br/>
+<br/>
+
+- [Full-stack web development (Bangla)][fullstackplaylist]
+- [Artificial Intelligence (English)][aienglishplaylist]
+- [Artificial Intelligence (Bangla)][aibanglaplaylist]
+- [Java Swing][javaswingplaylist]
+- [Discrte Math][dsplaylist]
+- [Numerical Method][numericalplaylist]
+- [Theory of computation][tocplaylist]
+- [Compiler][compilerplaylist]
+- [Networking][networkingplaylist]
+- [Operating System][operatingsystemplaylist]
+- [HSC ICT][hscictplaylist]
+- [Learn for skill][learnforskillplaylist]
+- [MS Word][mswordplaylist]
+- [MS Excel][msexcelplaylist]
+- [MS powerpoint][mspowerpointplaylist]
+  <!-- other skills and my videos for computer science section ends here  -->
+
+  <br/>
+
+<!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
+
+<br/>
+
+<!-- github stats ends here  -->
+  <!-- latest youtube videos starts here -->
+
+#### 📹 &nbsp; My Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Riding motorcycle in Rajshahi | City tour at night with lovely students](https://www.youtube.com/watch?v=fhSpCBvHIpM)
+- [vietnam vs bangladesh badminton](https://www.youtube.com/watch?v=YQ0i56HSpmE)
+- [Playing indoor football at soccer, Shibganj, Sylhet Anisul Islam is live](https://www.youtube.com/watch?v=c02QbXIHQQs)
+- [Injury doesn&#39;t stop me from Playing football at Freekick indoor, Sylhet](https://www.youtube.com/watch?v=lO7zft-_54c)
+- [Mastering Full Stack Development: A Journey with Anisul Islam | Seminar at UITS, Dhaka](https://www.youtube.com/watch?v=gWmsydSrsiI)
+<!-- YOUTUBE:END -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
+alt="Java" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
+alt="Java" width="240" height="180" border="10" /></a>
+
+↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
+
+<br/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/toufiqbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://toufiqislambd.netlify.app)  
+### 👨🏻‍🎓 &nbsp; Education
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+1. M.Sc. in Software, Web & Cloud  
+   Tampere University  
+   Tampere, Finland.
+2. B.Sc. in Computer Science & Engineering  
+   Leading University  
+   Sylhet, Bangladesh.
+3. Professional Diploma in Travel & Tourism  
+    London School of Commerce & IT  
+   London, England.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqbd)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toufiqbd&show_icons=true&count_private=true)  
+<!-- education section ends here  -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toufiqbd)  
+<!-- my languages section starts here  -->
 
-![GitHub metrics](https://metrics.lecoq.io/toufiqbd)  
+### Languages:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=toufiqbd)  
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+- 🇧🇷 Portugues : Basic
+  <br />
 
-![Profile views](https://gpvc.arturio.dev/toufiqbd)  
+<!-- my languages section ends here  -->
+
+<!-- my sports and game section starts here  -->
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
+<!-- my sports and games section ends here  -->
+
+<!-- Honors & awards section starts here  -->
+
+### 🏅 Honors & Awards :
+
+- 100% Scholarship in Masters at Tampere University, Finland
+- Silver Button from YouTube (350k subscribers currently)
+- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
+
+---
+
+Thanks for going through my Portfolio.
+All rights reserved by Anisul Islam @2021
+
+---
+
+<!-- my achievement section ends here  -->
+
+<!-- Links section starts here -->
+[website]: http://www.studywithanis.com/
+[youtube]: https://www.youtube.com/c/anisulislamrubel
+[facebook]: https://www.facebook.com/studywithanis/
+[linkedin]: https://www.linkedin.com/in/anisul2020/
+[github]: https://github.com/anisul-Islam
