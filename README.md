@@ -16,12 +16,13 @@ Motivated and detail-oriented Frontend Web Developer with hands-on experience in
 
 ###  
 
+✅ Next JS (v15) / React JS (v19) <br> 
+✅ TypeScript <br> 
+✅ JavaScript / Jquery <br> 
+✅ Express JS / Node JS <br> 
+✅ MongoDB / Firebase <br>
 ✅ HTML5 / CSS3 / SASS <br> 
 ✅ Tailwind CSS / Bootstrap <br> 
-✅ JavaScript / jQuery <br>
-✅ React JS / Node JS / Express JS <br>
-✅ MongoDB / Firebase <br>
-✅ WordPress (Customization) <br>
-✅ Photoshop / Figma
+✅ Shadcn UI / Material UI <br> 
 
 ###  
