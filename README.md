@@ -4,15 +4,7 @@
 
 ###
 
-<h1 align="left">Towfiq Islam</h1>
-
-###
-
-<h3 align="left">Front-End Developer</h3>
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 ###
 
