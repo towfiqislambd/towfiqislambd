@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Linkedin_Cover_3.png"  />
+  <img height="200" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Linkedin_Cover_3.png"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=towfiqislambd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
