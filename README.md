@@ -52,18 +52,3 @@
 </div>
 
 ###
-
-<h2 align="left">Social Links</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/towfiqislambd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://facebook.com/towfiqislambd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
