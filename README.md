@@ -23,7 +23,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="react logo"  />
+   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="5" />
