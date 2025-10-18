@@ -8,8 +8,7 @@
 
 ###
 
-<p align="left">Motivated and detail-oriented Frontend Web Developer with hands-on experience in building modern, responsive, and user-friendly web applications using Next.js, React, and TypeScript. Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments. Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
-<br><br>✨ Fixing bugs since 2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: .Build a Career with Web Development</p>
+Motivated and detail-oriented Frontend Web Developer with hands-on experience in building modern, responsive, and user-friendly web applications using Next.js, React, and TypeScript. Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments. Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
 
 ###
 
