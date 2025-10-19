@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-<hr style="border: thin solid #d3d3d3; margin: 20px 0;" />
+<hr style="border: 0.1px solid #d3d3d3; margin: 10px 0;" />
 
 Motivated and detail-oriented **Frontend Web Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
@@ -12,7 +12,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 
 ### 🛠 Tech Stack
 
-<hr style="border: 0.1px solid #d3d3d3; margin: 20px 0;" />
+<hr style="border: 0.1px solid #d3d3d3; margin: 10px 0;" />
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
@@ -44,7 +44,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 
 ### 🔥 My Stats
 
-<hr style="border: 0.1px solid #d3d3d3; margin: 20px 0;" />
+<hr style="border: 0.1px solid #d3d3d3; margin: 10px 0;" />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
