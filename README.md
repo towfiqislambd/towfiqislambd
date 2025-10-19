@@ -2,7 +2,7 @@
   <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Linkedin_Cover_3.png" />
 </div>
 
-<hr style="border: 0.5px solid #d3d3d3; margin: 20px 0;" />
+<hr style="border: 0.1px solid #d3d3d3; margin: 20px 0;" />
 
 ### 👩‍💻 About Me
 
