@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me
 
-<hr style="border: 0.1px solid #d3d3d3; margin: 20px 0;" />
+<hr style="border: thin solid #d3d3d3; margin: 20px 0;" />
 
 Motivated and detail-oriented **Frontend Web Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
