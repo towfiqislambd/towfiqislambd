@@ -2,17 +2,15 @@
   <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Linkedin_Cover_3.png" />
 </div>
 
-### 👩‍💻 About Me
-
-<hr style="border: 0.1px solid #d3d3d3; margin: 10px 0;" />
+## 👩‍💻 About Me
 
 Motivated and detail-oriented **Frontend Web Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
 Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
 
-### 🛠 Tech Stack
+---
 
-<hr style="border: 0.1px solid #d3d3d3; margin: 10px 0;" />
+## 🛠 Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
@@ -42,12 +40,18 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
 </div>
 
-### 🔥 My Stats
+---
 
-<hr style="border: 0.1px solid #d3d3d3; margin: 10px 0;" />
+## 🔥 My Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=towfiqislambd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=towfiqislambd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
+---
+
+## 🚀 Currently Working On
+
+- 🌐 Exploring **Next.js**
