@@ -41,6 +41,8 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
 
