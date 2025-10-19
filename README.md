@@ -8,7 +8,6 @@ Motivated and detail-oriented **Frontend Web Developer** with hands-on experienc
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
 Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
 
----
 
 ## 🛠 Tech Stack
 
