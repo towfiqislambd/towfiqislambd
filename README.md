@@ -2,17 +2,15 @@
   <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Linkedin_Cover_3.png" />
 </div>
 
-
+<hr style="border: 0.5px solid #d3d3d3; margin: 20px 0;" />
 
 ### 👩‍💻 About Me
-
----
 
 Motivated and detail-oriented **Frontend Web Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
 Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
 
----
+<hr style="border: 0.5px solid #d3d3d3; margin: 20px 0;" />
 
 ### 🛠 Tech Stack
 
@@ -44,7 +42,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
 </div>
 
----
+<hr style="border: 0.5px solid #d3d3d3; margin: 20px 0;" />
 
 ### 🔥 My Stats
 
@@ -54,4 +52,4 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://streak-stats.demolab.com?user=towfiqislambd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
----
+<hr style="border: 0.5px solid #d3d3d3; margin: 20px 0;" />
