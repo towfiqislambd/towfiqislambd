@@ -2,9 +2,11 @@
   <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Linkedin_Cover_3.png" />
 </div>
 
----
+
 
 ### 👩‍💻 About Me
+
+---
 
 Motivated and detail-oriented **Frontend Web Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
