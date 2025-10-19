@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" />
+  <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).gif" />
 </div>
 
 ## 👩‍💻 About Me
