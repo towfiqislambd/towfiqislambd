@@ -39,7 +39,6 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
 </div>
 
----
 
 ## 🔥 My Stats
 
@@ -49,8 +48,3 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://streak-stats.demolab.com?user=towfiqislambd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
----
-
-## 🚀 Currently Working On
-
-- 🌐 Exploring **Next.js**
