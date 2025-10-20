@@ -39,8 +39,6 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
 </div>
 
 
