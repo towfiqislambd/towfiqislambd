@@ -50,7 +50,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=towfiqislambd&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&nclude_all_commits=true&count_private=true" /> 
     </td>
     <td> 
-      <img  src="https://github-contributor-stats.vercel.app/api?username=towfiqislambd&theme=tokyonight&combine_all_yearly_contributions=true&limit=5" />
+      <img  src="https://github-contributor-stats.vercel.app/api?username=towfiqislambd&theme=tokyonight&combine_all_yearly_contributions=true&limit=3" />
     </td>
   </tr>
 </table>
