@@ -42,7 +42,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 </div>
 
 
-## 🔥 Statics
+## 🔥 Statistics
 
 <table>
   <tr>
