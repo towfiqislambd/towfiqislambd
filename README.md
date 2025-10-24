@@ -50,14 +50,22 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
   <img src="https://streak-stats.demolab.com?user=towfiqislambd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
+
 <table>
   <tr>
+    <td> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfiqislambd&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" />
+     </td>
+  </tr>
+</table>
 
-<td>
-     <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true" /> 
-</td>
-<td> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" />
-</td>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true" /> 
+    </td>
+    <td> 
+      <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" />
+    </td>
   </tr>
 </table>
