@@ -57,7 +57,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true" /> 
 </td>
 <td> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=yeasin2002&show_icons=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&show_icons=true" />
 </td>
   </tr>
 </table>
