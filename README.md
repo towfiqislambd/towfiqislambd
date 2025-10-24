@@ -47,7 +47,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true&mode=daily" /> 
+      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true&mode=daily&nclude_all_commits=true&count_private=true" /> 
     </td>
     <td> 
       <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" />
