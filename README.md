@@ -47,10 +47,10 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=towfiqislambd&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&nclude_all_commits=true&count_private=true" /> 
+      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true&mode=daily&nclude_all_commits=true&count_private=true" /> 
     </td>
     <td> 
-      <img  src="https://github-contributor-stats.vercel.app/api?username=towfiqislambd&theme=tokyonight&combine_all_yearly_contributions=true&limit=3" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=towfiqislambd&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&nclude_all_commits=true&count_private=true" /> 
     </td>
   </tr>
 </table>
@@ -58,10 +58,10 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true&mode=daily&nclude_all_commits=true&count_private=true" /> 
+       <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" />
     </td>
     <td> 
-      <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" />
+      <img  src="https://github-contributor-stats.vercel.app/api?username=towfiqislambd&theme=tokyonight&combine_all_yearly_contributions=true&limit=3&hide_border=true" />
     </td>
   </tr>
 </table>
