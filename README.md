@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Towfiq Islam a motivated and detail-oriented **Front-End Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
+I'm Towfiq Islam, a motivated and detail-oriented **Front-End Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
 Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
 Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
 
