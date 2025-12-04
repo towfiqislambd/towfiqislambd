@@ -1,68 +1,57 @@
-<div align="center">
-  <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif" />
-</div>
+<!-- GitHub Profile README -->
+   <img alt="Portfolio" src="/banner.jpg" />
+<!-- Hero Section -->
+<h1 align="center">Hi, I'm Rodro Karmakar</h1>
+<h3 align="center">💻 Frontend Developer | ⚙️ Problem Solver | 🌍 Open Source Contributor</h3>
 
-## 👩‍💻 About Me
-
-I'm Towfiq Islam, a motivated and detail-oriented **Front-End Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
-Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
-Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
-
-
-## 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-</div>
+<p align="center">
+  <a href="https://rodro.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rodrokarmakar" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dev.rodro@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@dev.rodro" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 
-## 🔥 Statistics
+## 🚀 About Me
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true&mode=daily&include_all_commits=true&count_private=true" /> 
-    </td>
-    <td> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=towfiqislambd&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> 
-    </td>
-  </tr>
-</table>
+- 🎯 Currently focused on **[Trucklink Guyana](https://trucklinkgy.com/)** – a powerful tool for logistics and transport operations.
+- 📚 Continuously exploring **Next.js**, **AI APIs**, and **Cloud Infrastructure**.
+- 🤝 Open to collaborations on meaningful open-source projects and startups.
+- 🧠 Passionate about clean code, developer experience, and design systems.
 
-<table>
-  <tr>
-    <td>
-       <img  src="https://github-readme-stats.vercel.app/api?username=towfiqislambd&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" />
-    </td>
-    <td> 
-      <img  src="https://github-contributor-stats.vercel.app/api?username=towfiqislambd&theme=tokyonight&combine_all_yearly_contributions=true&limit=3&hide_border=true" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode,postman" />
+</p>
+
+
+## ✨ Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| [Ammunition Website](https://ammobrowser.com/) | React, Tailwind, Context API, Framer Motion, Laraval, SQL, JWT, Axios, React Query | AmmoBrowser is a web application designed to provide a seamless and intuitive experience for browsing and managing ammunition-related data |
+| [Textile Network](https://thetextilenetwork.com) | Next js, Tailwind, Redux, Next Auth, shadcn | Connect with leading textile manufacturers and suppliers worldwide.Access a diverse range of fabrics and materials in one platform. |
+
+
+
+
+
+## 📫 How to Reach Me
+
+- 🔗 Website: [developer.rodro.com](https://rodro.vercel.app)
+- ✉️ Email: [dev.rodro@gmail.com](dev.rodro@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rodrokarmakar](https://linkedin.com/in/rodrokarmakar)
+
+
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
