@@ -44,7 +44,7 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 
 ## 🔥 Statistics
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiqislambd&theme=tokyonight" alt="Towfiq's GitHub Summary" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiqislambd&theme=tokyonight" alt="Towfiq's GitHub Summary" width="100%"/>
 
 <table>
   <tr>
