@@ -1,16 +1,22 @@
 <div align="center">
-  <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif" />
+  <img height="220" src="https://github.com/towfiqislambd/towfiqislambd/blob/main/github_banner.gif" />
 </div>
 
 ## 👩‍💻 About Me
 
-A motivated and detail-oriented **Front-End Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**. Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.
-- 🎯 Focused on building scalable web apps with **Next.js** and modern tooling.
-- ⚡ Passionate about performance optimization and improving developer experience.
-- 📚 Experimenting with new tools, libraries, and workflows to stay up-to-date.
-- 💡 Constantly improving skills in frontend architectures, state management, and API integrations.
-- 🔍 Always learning — from docs, real projects, and developer communities.
+A motivated and detail-oriented **Front-End Developer** with hands-on experience
+in building modern, responsive, and user-friendly web applications using
+**Next.js**, **React**, and **TypeScript**. Proven ability to collaborate
+effectively with UI/UX designers and backend developers in fast-paced,
+team-oriented environments.
 
+- 🎯 Focused on building scalable web apps with **Next.js** and modern tooling.
+- ⚡ Passionate about performance optimization and improving developer
+  experience.
+- 📚 Experimenting with new tools, libraries, and workflows to stay up-to-date.
+- 💡 Constantly improving skills in frontend architectures, state management,
+  and API integrations.
+- 🔍 Always learning — from docs, real projects, and developer communities.
 
 ## 🛠 Tech Stack
 
@@ -44,17 +50,15 @@ A motivated and detail-oriented **Front-End Developer** with hands-on experience
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
 </div>
 
-
 ## 🔥 Statistics
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiqislambd&theme=tokyonight" alt="Towfiq's GitHub Summary" width="100%"/>
-
 
 ## 📫 How to Reach Me
 
 - 🔗 Website: [developer.towfiq.com](https://towfiqislam.vercel.app)
 - ✉️ Email: [towfiqislambd@gmail.com](mailto:towfiqislambd@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/towfiqislambd](https://www.linkedin.com/in/towfiqislambd)
+- 💼 LinkedIn:
+  [linkedin.com/in/towfiqislambd](https://www.linkedin.com/in/towfiqislambd)
 
-
-#### “Every bug teaches something. Every commit tells a story. Every project builds a developer.” 
+#### “Every bug teaches something. Every commit tells a story. Every project builds a developer.”
