@@ -55,3 +55,6 @@ A motivated and detail-oriented **Front-End Developer** with hands-on experience
 - 🔗 Website: [developer.towfiq.com](https://towfiqislam.vercel.app)
 - ✉️ Email: [dev.towfiq@gmail.com](towfiqlslambd@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/towfiqislambd](https://www.linkedin.com/in/towfiqislambd)
+
+
+_“Every bug teaches something. Every commit tells a story. Every project builds a developer.” _
