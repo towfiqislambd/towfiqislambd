@@ -57,4 +57,4 @@ A motivated and detail-oriented **Front-End Developer** with hands-on experience
 - 💼 LinkedIn: [linkedin.com/in/towfiqislambd](https://www.linkedin.com/in/towfiqislambd)
 
 
-“Every bug teaches something. Every commit tells a story. Every project builds a developer.” 
+### “Every bug teaches something. Every commit tells a story. Every project builds a developer.” 
