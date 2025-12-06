@@ -48,3 +48,10 @@ A motivated and detail-oriented **Front-End Developer** with hands-on experience
 ## 🔥 Statistics
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiqislambd&theme=tokyonight" alt="Towfiq's GitHub Summary" width="100%"/>
+
+
+## 📫 How to Reach Me
+
+- 🔗 Website: [developer.towfiq.com](https://towfiqislam.vercel.app)
+- ✉️ Email: [dev.towfiq@gmail.com](towfiqlslambd@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/towfiqislambd](https://www.linkedin.com/in/towfiqislambd)
